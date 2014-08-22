@@ -1,0 +1,4 @@
+[Project]
+Name=sine2
+Manager=KDevCustomMakeManager
+VersionControl=kdevgit
